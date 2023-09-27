@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.vscode
+/__pycache__
+Untitled.ipynb
+test.ipynb
+audio_transcript.ipynb
+dynamic_audio_transcript.ipynb
+speech_data.pkl
+secret_.py
