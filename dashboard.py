@@ -97,8 +97,7 @@ class AudioDashboard(param.Parameterized):
 
             with open(file_path, 'wb') as file:
                 pickle.dump(transcription_result.copy(), file)
-
-                    
+         
         else:
             print("no")
             return
